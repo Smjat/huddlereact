@@ -1,0 +1,48 @@
+body, h2, p{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color: blueviolet;
+  padding:3em;
+}
+
+header img{
+  width:15%;
+}
+
+main {
+  margin-top: 2em;
+  display: flex;
+ justify-content: space-around;
+}
+
+main img{
+  width:50%;
+}
+
+.content{
+  width:40%;
+  padding-top:2em;
+}
+
+h2{
+  font-size:45px;
+  color: white;
+}
+
+p{
+  margin:2em 0em;
+  font-size:15px;
+  color: white;
+}
+
+button{
+  padding:1em;
+  border:none;
+  border-radius:30px;
+  color: purple;
+  width:40%;
+
+}
